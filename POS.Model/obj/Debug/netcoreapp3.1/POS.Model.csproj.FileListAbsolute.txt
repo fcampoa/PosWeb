@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\PointOfSale\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.deps.json
+C:\Users\felix\source\repos\PointOfSale\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.AssemblyInfo.cs
+C:\Users\felix\source\repos\PointOfSale\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.runtimeconfig.json
+C:\Users\felix\source\repos\PointOfSale\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.runtimeconfig.dev.json
+C:\Users\felix\source\repos\PointOfSale\POS.Model\bin\Debug\netcoreapp3.1\POS.Model.pdb
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.dll
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.pdb
+C:\Users\felix\source\repos\PointOfSale\POS.Model\obj\Debug\netcoreapp3.1\POS.Model.genruntimeconfig.cache
